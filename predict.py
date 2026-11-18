@@ -22,10 +22,10 @@ def main() -> None:
 
 
     measurments = [
-        args.sepal_length
-        args.sepal_width
-        args.petal_length
-        args.petal_width
+        args.sepal_length,
+        args.sepal_width,
+        args.petal_length,
+        args.petal_width,
 
         ]
 
